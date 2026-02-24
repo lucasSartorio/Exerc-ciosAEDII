@@ -1,0 +1,1 @@
+﻿Exercicio23.Executar();

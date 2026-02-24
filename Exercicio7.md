@@ -1,0 +1,3 @@
+a. A solução correta é o Programa A. Ele usa a estrutura while e faz o teste da condição antes de executar o bloco, garantindo que o comando de imprimir seja ignorado caso o usuário digite -1 logo de cara.
+
+b. A solução incorreta (Programa B) poderia ser corrigida adicionando uma condicional if em volta do comando de impressão. Como a estrutura do-while sempre executa o bloco primeiro, o if impede que o sinal de parada (-1) seja impresso.
